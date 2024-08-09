@@ -1,9 +1,6 @@
 # UMVC
 MICCAI 2024: Uncertainty-Aware Multi-View Learning for Prostate Cancer Grading with DWI
 
-## Model Overview
-
-![](https://dzc2000919.oss-cn-shanghai.aliyuncs.com/images/202408091202016.png)
 
 ## Dataset
 
@@ -51,6 +48,6 @@ def save_four_slices(nii_folder_path, output_folder_path):
 ## Train
 To train the models, go to the corresponding directory, and run the command
 
-`python train.py`
+```python train.py```
 
 
